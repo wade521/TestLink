@@ -1,1 +1,797 @@
-aHlzdGVyaWEyOi8vYVZKeEFkNldTRkA3Ny45MC4xMzUuNjQ6MjAzODg/aW5zZWN1cmU9MSZvYmZzPXNhbGFtYW5kZXImb2Jmcy1wYXNzd29yZD1ibHVlY3J5c3RhbDMjJUYwJTlGJThDJTgwJUU1JTg1JUI2JUU0JUJCJTk2MS1UUiUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDIuNU1CJTJGcwpzczovL1lXVnpMVEkxTmkxblkyMDZOREl6WTJZMk5ESXROalV5T0MwME1UQmpMV0kxTkRJdE1tRmhaVEEwTVRFelpETXpAY2RuLXAxLWhrLndlaWJvLWRucy5jb206MTE1MDEjJUYwJTlGJTg3JUFEJUYwJTlGJTg3JUIwJUU5JUE2JTk5JUU2JUI4JUFGMSUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDYuME1CJTJGcwpoeXN0ZXJpYTI6Ly9iNzJiYTVkNS0yZDVlLTQ1YjctOTNiNS0yMzZkMzQzYmFhN2NANjQuMTgxLjIwNy4xNjI6NDcyNjI/aW5zZWN1cmU9MSZzbmk9d3d3LmJpbmcuY29tIyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCVFNyVCRSU4RSVFNSU5QiVCRDElMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjAyLjFNQiUyRnMKc3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE9PUAxMjUuMTQxLjMxLjcyOjE1MDk4IyVGMCU5RiU4NyVCMCVGMCU5RiU4NyVCNyVFOSU5RiVBOSVFNSU5QiVCRDElMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjAxMS45TUIlMkZzCnNzOi8vWVdWekxUSTFOaTFqWm1JNmNYZGxjbEpGVjFGQVFBPT1AMjIxLjE1MC4xMDkuODk6MTEzODkjJUYwJTlGJTg3JUIwJUYwJTlGJTg3JUI3JUU5JTlGJUE5JUU1JTlCJUJEMiUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDEwLjFNQiUyRnMKc3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE9PUBwMjIyLnBhbmRhMDAxLm5ldDoxNTA5OCMlRjAlOUYlODclQjAlRjAlOUYlODclQjclRTklOUYlQTklRTUlOUIlQkQzJTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwNS42TUIlMkZzCnZsZXNzOi8vODNlZTBkNDktZDY5My00MWNiLWI5N2YtMWY2OWZhM2U4OWNkQDc0LjIyMC4yMy4yMjc6MjAzMD9zZWN1cml0eT1yZWFsaXR5JnR5cGU9Z3JwYyZtb2RlPWd1biZzZXJ2aWNlTmFtZT1DQU5BTFRFTEVHUkFNLS1qZXRfY29uZmlnLS1URUxFR1JBTS0tamV0X2NvbmZpZy0tQ0FOQUxURUxFR1JBTS0tamV0X2NvbmZpZy0tVEVMRUdSQU0tLWpldF9jb25maWctLUNBTkFMVEVMRUdSQU0tLWpldF9jb25maWcmc25pPXJlZmVyc2lvbi5jb20mZnA9Y2hyb21lJnNpZD03ZmUyOTczMyZwYms9WVdmQ2RUbnI0RkFPTVlUWTJkTHJNdFFVb2t5eE9HcFBoWUVFc3pQajIwRSMlRjAlOUYlODclQUMlRjAlOUYlODclQTclRTglOEIlQjElRTUlOUIlQkQxJTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwNy4zTUIlMkZzCnZsZXNzOi8vODJiODg0YWItZDI5Ny00NzI2LTk1OTYtNjdjNmQ0OWFjZjZhQDIxMi4zNC4xNDIuNDA6NDQzP3NlY3VyaXR5PXJlYWxpdHkmdHlwZT10Y3Amc25pPXd3dy5kZWVwbC5jb20mZnA9Y2hyb21lJmZsb3c9eHRscy1ycHJ4LXZpc2lvbiZzaWQ9ZmE4YTAzNWJjZiZwYms9czdRT0hRV0x3Q0JJTTFLaERGaldEQ3lMN3EteGVkbnV0dGpsMjRIc1YwVSMlRjAlOUYlODclQjMlRjAlOUYlODclQjElRTglOEQlQjclRTUlODUlQjAxJTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwNS41TUIlMkZzCnZsZXNzOi8vMTBiNTk1MTMtZWY3Ni00NDk0LWE5MjUtMzA1ZWM0NWRkM2E0QDQ1LjEyLjEzOS40NDoyMDQwP3NlY3VyaXR5PXJlYWxpdHkmdHlwZT10Y3Amc25pPWdpdGh1Yi5jb20mZnA9Y2hyb21lJnNpZD0yN2NmYTA1MDAwYzIzY2M0JnBiaz1pUGpXTHZYV3Q3QUJKYVNSUnd6amdMcnZsSmx3b1lRWk44ekYtRzNELVFzIyVGMCU5RiU4QyU4MCVFNSU4NSVCNiVFNCVCQiU5NjItQ1klMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjA1LjBNQiUyRnMKdmxlc3M6Ly8xMGI1OTUxMy1lZjc2LTQ0OTQtYTkyNS0zMDVlYzQ1ZGQzYTRAOTEuODQuMTA2LjE5NjoyMDQwP3NlY3VyaXR5PXJlYWxpdHkmdHlwZT10Y3Amc25pPWNkbmpzLmNvbSZmcD1jaHJvbWUmc2lkPTI3Y2ZhMDUwMDBjMjNjYzQmcGJrPWlQaldMdlhXdDdBQkphU1JSd3pqZ0xydmxKbHdvWVFaTjh6Ri1HM0QtUXMjJUYwJTlGJTg3JUIzJUYwJTlGJTg3JUIxJUU4JThEJUI3JUU1JTg1JUIwMiUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDIuN01CJTJGcwp2bGVzczovLzBkMDgzNzg3LTA4MGQtNGVhYS1hNzQxLWU3OGM4ZmNkOTU0N0AxNTEuMTAxLjIuMjE5OjgwP3NlY3VyaXR5PW5vbmUmdHlwZT13cyZwYXRoPSUyRm9sZW0lMkZ3cyUzRmVkJTNEMTAyNCZob3N0PWZvZmZtZWxvLmNvbSMlRjAlOUYlODclQTklRjAlOUYlODclQUElRTUlQkUlQjclRTUlOUIlQkQxJTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwMTAuNU1CJTJGcwp2bGVzczovLzBlYjgzZjNlLTdiOTUtNDI3YS04OTUyLWFiZWRmY2ExODY5ZkAxNzIuNjcuNzMuMTYzOjgwODA/c2VjdXJpdHk9bm9uZSZ0eXBlPXdzJnBhdGg9JTJGJTNGZWQlM0QyMDQ4Jmhvc3Q9UVcuVlU2ZDcybnQ5eS56VUxhaVIub3JHLiMlRjAlOUYlODclQUIlRjAlOUYlODclQjclRTYlQjMlOTUlRTUlOUIlQkQxJTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwNC40TUIlMkZzCnZsZXNzOi8vMDMzYTQ5ODItYThjNy00YmZiLTk0ODEtNWE4YTFjNjJjZmQ2QDEwNC4yMS45My45NTo4MD9zZWN1cml0eT1ub25lJnR5cGU9d3MmcGF0aD0lMkZpREUyajVKSm5xVEdQam1TJTNGZWQlM0QyNTYwJmhvc3Q9YXphZG5ldC5iMGI3MjNhMTgyLndvcmtlcnMuZGV2IyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCVFNyVCRSU4RSVFNSU5QiVCRDIlMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjA4LjhNQiUyRnMKdmxlc3M6Ly85YWVkMzJkNy0zNTU2LTQ4YTQtOTVmOC1lODJkY2MyZTFiNTRANTcuMTI4LjE3OC4yNTM6NDQzP3NlY3VyaXR5PXRscyZ0eXBlPXRjcCZhbHBuPWh0dHAlMkYxLjEmc25pPWVuLmxpbmNlZWRhYi5jb20mZnA9c2FmYXJpIyVGMCU5RiU4NyVBQiVGMCU5RiU4NyVCNyVFNiVCMyU5NSVFNSU5QiVCRDIlMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjA3LjdNQiUyRnMKaHlzdGVyaWEyOi8vZG9uZ3RhaXdhbmcuY29tQDE5NS4xNTQuMzMuNzA6NDQ4OT9pbnNlY3VyZT0xJnNuaT13d3cuYmluZy5jb20jJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JUU2JUIzJTk1JUU1JTlCJUJEMyUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDIuME1CJTJGcwpoeXN0ZXJpYTI6Ly9iNzJlMGE2Ni1jNjYwLTRhMjYtOWFjYy04ZjEwNmNlZTBhYjlAMTcwLjY0LjIyMi4yNTI6NTIxMTE/aW5zZWN1cmU9MSZzbmk9d3d3LmJpbmcuY29tIyVGMCU5RiU4NyVBNiVGMCU5RiU4NyVCQSVFNiVCRSVCMyVFNSVBNCVBNyVFNSU4OCVBOSVFNCVCQSU5QTElMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjAzLjZNQiUyRnMKc3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE9PUBwMjMxLnBhbmRhMDA0Lm5ldDoxMTM4OSMlRjAlOUYlODclQjAlRjAlOUYlODclQjclRTklOUYlQTklRTUlOUIlQkQ0JTIwJTdDJTIwJUUyJUFDJTg3JUVGJUI4JThGJTIwOC41TUIlMkZzCmh5c3RlcmlhMjovL2FkNzdlNDVjLTA0ODUtNDM1Ny05ZDY0LTE1OTNhYWJjMmMxOUAxMDguMjE0LjI0Ni43OTozMjMyMT9pbnNlY3VyZT0xIyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCVFNyVCRSU4RSVFNSU5QiVCRDMlMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjAyLjlNQiUyRnMKaHlzdGVyaWEyOi8vMTRiZGNkMzEtOGE5Zi00Y2YxLThmY2MtNjAwNDU5MDAzNTdkQHVzLjEwMTAxMjUxLnh5ejozMDAyP3NuaT11cy4xMDEwMTI1MS54eXojJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUU3JUJFJThFJUU1JTlCJUJENCUyMCU3QyUyMCVFMiVBQyU4NyVFRiVCOCU4RiUyMDMuNE1CJTJGcwp0cm9qYW46Ly9iNjIwMGFmNDJjY2FkZWEzNTNmNWI1ODU2ZGQyMGQ3MEAxMjAuMjMzLjEyOC42ODozOTAwMT9zbmk9MTIwLjIzMy4xMjguNjgmYWxsb3dJbnNlY3VyZT0xIyVGMCU5RiU4NyVBRCVGMCU5RiU4NyVCMCVFOSVBNiU5OSVFNiVCOCVBRjIlMjAlN0MlMjAlRTIlQUMlODclRUYlQjglOEYlMjA1LjNNQiUyRnMK
+proxies:
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F300其他1-TR | ⬇️ 2.5MB/s"
+    obfs: salamander
+    obfs-password: bluecrystal3
+    password: aVJxAd6WSF
+    port: 20388
+    server: 77.90.135.64
+    skip-cert-verify: true
+    sni: ''
+    type: hysteria2
+    up: ''
+    disable-sni: true
+  - cipher: aes-256-gcm
+    name: "\U0001F1ED\U0001F1F0香港1 | ⬇️ 6.0MB/s"
+    password: 423cf642-6528-410c-b542-2aae04113d33
+    port: 11501
+    server: cdn-p1-hk.weibo-dns.com
+    type: ss
+    udp: true
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8美国1 | ⬇️ 2.1MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
+    port: 47262
+    server: 64.181.207.162
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - cipher: aes-256-cfb
+    name: "\U0001F1F0\U0001F1F7韩国1 | ⬇️ 11.9MB/s"
+    password: qwerREWQ@@
+    port: 15098
+    server: 125.141.31.72
+    type: ss
+    udp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F1F0\U0001F1F7韩国2 | ⬇️ 10.1MB/s"
+    password: qwerREWQ@@
+    port: 11389
+    server: 221.150.109.89
+    type: ss
+    udp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F1F0\U0001F1F7韩国3 | ⬇️ 5.6MB/s"
+    password: qwerREWQ@@
+    port: 15098
+    server: p222.panda001.net
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    grpc-opts:
+      grpc-service-name: >-
+        CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config
+    name: "\U0001F1EC\U0001F1E7英国1 | ⬇️ 7.3MB/s"
+    network: grpc
+    port: 2030
+    reality-opts:
+      public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
+      short-id: 7fe29733
+    server: 74.220.23.227
+    tls: true
+    type: vless
+    udp: true
+    uuid: 83ee0d49-d693-41cb-b97f-1f69fa3e89cd
+    xudp: true
+    servername: refersion.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F3\U0001F1F1荷兰1 | ⬇️ 5.5MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: s7QOHQWLwCBIM1KhDFjWDCyL7q-xednuttjl24HsV0U
+      short-id: fa8a035bcf
+    server: 212.34.142.40
+    tls: true
+    type: vless
+    udp: true
+    uuid: 82b884ab-d297-4726-9596-67c6d49acf6a
+    xudp: true
+    servername: www.deepl.com
+  - client-fingerprint: chrome
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F300其他2-CY | ⬇️ 5.0MB/s"
+    network: tcp
+    port: 2040
+    reality-opts:
+      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
+      short-id: 27cfa05000c23cc4
+    server: 45.12.139.44
+    tls: true
+    type: vless
+    udp: true
+    uuid: 10b59513-ef76-4494-a925-305ec45dd3a4
+    xudp: true
+    servername: github.com
+  - client-fingerprint: chrome
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F3\U0001F1F1荷兰2 | ⬇️ 2.7MB/s"
+    network: tcp
+    port: 2040
+    reality-opts:
+      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
+      short-id: 27cfa05000c23cc4
+    server: 91.84.106.196
+    tls: true
+    type: vless
+    udp: true
+    uuid: 10b59513-ef76-4494-a925-305ec45dd3a4
+    xudp: true
+    servername: cdnjs.com
+  - name: "\U0001F1E9\U0001F1EA德国1 | ⬇️ 10.5MB/s"
+    network: ws
+    port: 80
+    server: 151.101.2.219
+    type: vless
+    udp: true
+    uuid: 0d083787-080d-4eaa-a741-e78c8fcd9547
+    ws-opts:
+      headers:
+        Host: foffmelo.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/43.0.2357.65 Safari/537.36
+      path: /olem/ws?ed=1024
+    xudp: true
+  - name: "\U0001F1EB\U0001F1F7法国1 | ⬇️ 4.4MB/s"
+    network: ws
+    port: 8080
+    server: 172.67.73.163
+    type: vless
+    udp: true
+    uuid: 0eb83f3e-7b95-427a-8952-abedfca1869f
+    ws-opts:
+      headers:
+        Host: QW.VU6d72nt9y.zULaiR.orG.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/35.0.1916.153 Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - name: "\U0001F1FA\U0001F1F8美国2 | ⬇️ 8.8MB/s"
+    network: ws
+    port: 80
+    server: 104.21.93.95
+    type: vless
+    udp: true
+    uuid: 033a4982-a8c7-4bfb-9481-5a8a1c62cfd6
+    ws-opts:
+      headers:
+        Host: azadnet.b0b723a182.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /iDE2j5JJnqTGPjmS?ed=2560
+    xudp: true
+  - alpn:
+      - http/1.1
+    client-fingerprint: safari
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1F7法国2 | ⬇️ 7.7MB/s"
+    network: tcp
+    port: 443
+    server: 57.128.178.253
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9aed32d7-3556-48a4-95f8-e82dcc2e1b54
+    xudp: true
+    servername: en.linceedab.com
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1EB\U0001F1F7法国3 | ⬇️ 2.0MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: dongtaiwang.com
+    port: 4489
+    server: 195.154.33.70
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1E6\U0001F1FA澳大利亚1 | ⬇️ 3.6MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: b72e0a66-c660-4a26-9acc-8f106cee0ab9
+    port: 52111
+    server: 170.64.222.252
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - cipher: aes-256-cfb
+    delay: 1981
+    name: "\U0001F1F0\U0001F1F7韩国4 | ⬇️ 8.5MB/s"
+    password: qwerREWQ@@
+    port: 11389
+    server: p231.panda004.net
+    type: ss
+  - alpn:
+      - h3
+    auth: ad77e45c-0485-4357-9d64-1593aabc2c19
+    delay: 1025
+    name: "\U0001F1FA\U0001F1F8美国3 | ⬇️ 2.9MB/s"
+    password: ad77e45c-0485-4357-9d64-1593aabc2c19
+    port: 32321
+    server: 108.214.246.79
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+  - auth: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
+    delay: 1165
+    name: "\U0001F1FA\U0001F1F8美国4 | ⬇️ 3.4MB/s"
+    password: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
+    port: 3002
+    server: us.10101251.xyz
+    skip-cert-verify: false
+    sni: us.10101251.xyz
+    type: hysteria2
+  - delay: 654
+    name: "\U0001F1ED\U0001F1F0香港2 | ⬇️ 5.3MB/s"
+    password: b6200af42ccadea353f5b5856dd20d70
+    port: 39001
+    server: 120.233.128.68
+    skip-cert-verify: true
+    sni: 120.233.128.68
+    type: trojan
+  - client-fingerprint: chrome
+    delay: 909
+    name: "\U0001F300其他3-未识别 | ⬇️ 2.2MB/s"
+    password: cacb4d4fa26f4eed25e4d17a6370083c
+    port: 443
+    server: tky03.sqx001.com
+    skip-cert-verify: true
+    sni: tky03.sqx001.com
+    tls: true
+    type: http
+    udp: true
+    username: dmpyoary@mayorlogistic.com
+proxy-groups:
+  - name: "\U0001F680 节点选择"
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F680 手动切换"
+    include-all: true
+    type: select
+  - name: ♻️ 自动选择
+    type: url-test
+    include-all: true
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F4F2 电报消息"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4AC Ai平台"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4F9 油管视频"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F3A5 奈飞视频"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F3A5 奈飞节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4FA 巴哈姆特"
+    type: select
+    proxies:
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F680 节点选择"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4FA 哔哩哔哩"
+    type: select
+    proxies:
+      - "\U0001F3AF 全球直连"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+  - name: "\U0001F30D 国外媒体"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F30F 国内媒体"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F4E2 谷歌FCM"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软Bing
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软云盘
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - DIRECT
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F34E 苹果服务"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F3AE 游戏平台"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F3B6 网易音乐"
+    type: select
+    include-all: true
+    filter: (?i)网易|音乐|NetEase|Music
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+  - name: "\U0001F3AF 全球直连"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+  - name: "\U0001F6D1 广告拦截"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: "\U0001F343 应用净化"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: "\U0001F41F 漏网之鱼"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - DIRECT
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F1ED\U0001F1F0 香港节点"
+    include-all: true
+    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1EF\U0001F1F5 日本节点"
+    include-all: true
+    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1FA\U0001F1F2 美国节点"
+    include-all: true
+    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1E8\U0001F1F3 台湾节点"
+    include-all: true
+    filter: (?i)台|新北|彰化|TW|Taiwan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1F8\U0001F1EC 狮城节点"
+    include-all: true
+    filter: (?i)新加坡|坡|狮城|SG|Singapore
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1F0\U0001F1F7 韩国节点"
+    include-all: true
+    filter: (?i)KR|Korea|KOR|首尔|韩|韓
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F3A5 奈飞节点"
+    include-all: true
+    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
+    type: select
+rule-providers:
+  LocalAreaNetwork:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
+    path: ./ruleset/LocalAreaNetwork.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  UnBan:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list'
+    path: ./ruleset/UnBan.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanAD:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list'
+    path: ./ruleset/BanAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanProgramAD:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list
+    path: ./ruleset/BanProgramAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleFCM:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
+    path: ./ruleset/GoogleFCM.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/GoogleCN.list
+    path: ./ruleset/GoogleCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  SteamCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/SteamCN.list
+    path: ./ruleset/SteamCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bing:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Bing.list'
+    path: ./ruleset/Bing.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OneDrive:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/OneDrive.list
+    path: ./ruleset/OneDrive.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Microsoft:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Microsoft.list
+    path: ./ruleset/Microsoft.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Apple:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Apple.list'
+    path: ./ruleset/Apple.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Telegram:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
+    path: ./ruleset/Telegram.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  AI:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/AI.list
+    path: ./ruleset/AI.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OpenAi:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/OpenAi.list
+    path: ./ruleset/OpenAi.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  NetEaseMusic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list
+    path: ./ruleset/NetEaseMusic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Epic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Epic.list
+    path: ./ruleset/Epic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Origin:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Origin.list
+    path: ./ruleset/Origin.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Sony:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Sony.list
+    path: ./ruleset/Sony.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Steam.list
+    path: ./ruleset/Steam.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Nintendo:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Nintendo.list
+    path: ./ruleset/Nintendo.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  YouTube:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/YouTube.list
+    path: ./ruleset/YouTube.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Netflix:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Netflix.list
+    path: ./ruleset/Netflix.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bahamut:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bahamut.list
+    path: ./ruleset/Bahamut.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BilibiliHMT:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/BilibiliHMT.list
+    path: ./ruleset/BilibiliHMT.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bilibili:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bilibili.list
+    path: ./ruleset/Bilibili.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
+    path: ./ruleset/ChinaMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
+    path: ./ruleset/ProxyMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyGFWlist:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
+    path: ./ruleset/ProxyGFWlist.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaDomain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
+    path: ./ruleset/ChinaDomain.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaCompanyIp:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
+    path: ./ruleset/ChinaCompanyIp.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Download:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
+    path: ./ruleset/Download.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+rules:
+  - "PROCESS-NAME,subs-check.exe,\U0001F3AF 全球直连"
+  - "PROCESS-NAME,subs-check,\U0001F3AF 全球直连"
+  - "RULE-SET,LocalAreaNetwork,\U0001F3AF 全球直连"
+  - "RULE-SET,UnBan,\U0001F3AF 全球直连"
+  - "RULE-SET,BanAD,\U0001F6D1 广告拦截"
+  - "RULE-SET,BanProgramAD,\U0001F343 应用净化"
+  - "RULE-SET,GoogleFCM,\U0001F4E2 谷歌FCM"
+  - "RULE-SET,GoogleCN,\U0001F3AF 全球直连"
+  - "RULE-SET,SteamCN,\U0001F3AF 全球直连"
+  - 'RULE-SET,Bing,Ⓜ️ 微软Bing'
+  - 'RULE-SET,OneDrive,Ⓜ️ 微软云盘'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - "RULE-SET,Apple,\U0001F34E 苹果服务"
+  - "RULE-SET,Telegram,\U0001F4F2 电报消息"
+  - "RULE-SET,AI,\U0001F4AC Ai平台"
+  - "RULE-SET,NetEaseMusic,\U0001F3B6 网易音乐"
+  - "RULE-SET,Epic,\U0001F3AE 游戏平台"
+  - "RULE-SET,Origin,\U0001F3AE 游戏平台"
+  - "RULE-SET,Sony,\U0001F3AE 游戏平台"
+  - "RULE-SET,Steam,\U0001F3AE 游戏平台"
+  - "RULE-SET,Nintendo,\U0001F3AE 游戏平台"
+  - "RULE-SET,YouTube,\U0001F4F9 油管视频"
+  - "RULE-SET,Netflix,\U0001F3A5 奈飞视频"
+  - "RULE-SET,Bahamut,\U0001F4FA 巴哈姆特"
+  - "RULE-SET,BilibiliHMT,\U0001F4FA 哔哩哔哩"
+  - "RULE-SET,Bilibili,\U0001F4FA 哔哩哔哩"
+  - "RULE-SET,ChinaMedia,\U0001F30F 国内媒体"
+  - "RULE-SET,ProxyMedia,\U0001F30D 国外媒体"
+  - "RULE-SET,ProxyGFWlist,\U0001F680 节点选择"
+  - "RULE-SET,ChinaDomain,\U0001F3AF 全球直连"
+  - "RULE-SET,ChinaCompanyIp,\U0001F3AF 全球直连"
+  - "RULE-SET,Download,\U0001F3AF 全球直连"
+  - "GEOIP,CN,\U0001F3AF 全球直连"
+  - "MATCH,\U0001F41F 漏网之鱼"
